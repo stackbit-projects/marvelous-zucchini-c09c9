@@ -24,7 +24,7 @@ sections:
     type: section_grid
     title: Skills
     subtitle: An optional subtitle of the section
-    col_number: two
+    col_number: three
     is_numbered: false
     grid_items:
       - title: Python
