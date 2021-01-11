@@ -22,7 +22,7 @@ sections:
     view_all_url: Projects
   - section_id: services
     type: section_grid
-    title: What We Do
+    title: Skills
     subtitle: An optional subtitle of the section
     col_number: two
     is_numbered: true
