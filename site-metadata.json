@@ -1,7 +1,7 @@
 {
     "description": "A portfolio website",
     "color_scheme": "dark",
-    "accent_color": "pink",
+    "accent_color": "green",
     "header": {
         "title": "Exto",
         "has_nav": true,
