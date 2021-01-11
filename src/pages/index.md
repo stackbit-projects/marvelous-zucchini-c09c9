@@ -25,7 +25,7 @@ sections:
     title: Skills
     subtitle: An optional subtitle of the section
     col_number: two
-    is_numbered: true
+    is_numbered: false
     grid_items:
       - title: Python
         content: >-
