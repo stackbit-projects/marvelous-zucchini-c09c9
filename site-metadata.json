@@ -15,7 +15,7 @@
                 "label": "Portfolio",
                 "url": "/portfolio/",
                 "style": "link",
-                "new_window": true
+                "new_window": false
             },
             {
                 "label": "About",
