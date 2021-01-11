@@ -1,7 +1,7 @@
 {
     "description": "A portfolio website",
     "color_scheme": "light",
-    "accent_color": "green",
+    "accent_color": "violet",
     "header": {
         "title": "Aryan KUmar",
         "has_nav": true,
